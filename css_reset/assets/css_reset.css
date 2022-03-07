@@ -1,0 +1,8 @@
+nav {
+  float: right;
+}
+
+body header img{
+  float: left;
+  vertical-align: top;
+}
